@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="content_description_start_icon"><![CDATA[<string name=\"content_description_start_icon\">Search icon</string>\n]]></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="prompt_select_country">Select Country</string>
+
+    <string name="prompt_select_city">Select City</string>
+
+</resources>
