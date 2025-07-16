@@ -4,11 +4,9 @@ Built using Java/Kotlin and WeatherAPI, with location-based updates, custom city
 
 1 Screenshots
 ### Home Screen  
-![Home](screenshots/home.png)
-
+<img src="screenshots/home.png" width="300"/>    
 ### City Selection  
-![City](screenshots/city.png)
-
+<img src="screenshots/city.png" width="300"/>
 2 Features
 - 🌤 Real-time weather updates (temperature, humidity, wind, etc.)
 - 📍 Location-based weather
